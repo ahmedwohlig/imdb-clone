@@ -1,0 +1,71 @@
+{
+  "status": 200,
+  "movies": [
+    {
+      "id": 1,
+      "name": "Hawk eye",
+      "img": "https://c4.wallpaperflare.com/wallpaper/884/931/817/hawkeye-in-the-avengers-hawk-eye-poster-wallpaper-preview.jpg",
+      "poster": "https://i.pinimg.com/originals/de/cd/17/decd171598b074fdd8af39599ce90326.png"
+    },
+    {
+      "id": 2,
+      "name": "What If",
+      "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/08/What-If-zombies-Captain-America-Iron-Man-poster.jpg",
+      "poster": "https://whatsondisneyplus.com/wp-content/uploads/2021/08/E8S6advUYAEpTld.jpg"
+    },
+    {
+      "id": 3,
+      "name": "infinity war",
+      "img": "https://cdn.vox-cdn.com/thumbor/4HEbAjlaQrhaVcC1-ZaY90DK2sk=/0x0:1024x429/1200x800/filters:focal(431x133:593x295)/cdn.vox-cdn.com/uploads/chorus_image/image/64609778/f6392c4407.0.jpeg",
+      "poster": "https://pyxis.nymag.com/v1/imgs/8b3/ac6/ca28ec3072fdc00a5b59a72a75a39ab61b-20-avengers-lede.rsquare.w700.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Iron man",
+      "img": "https://rukminim1.flixcart.com/image/416/416/kdt50nk0-0/poster/b/a/x/large-pr-ir-50-iron-man-wall-poster-for-home-bedroom-kids-room-original-imafumsyjatkzrgc.jpeg?q=70",
+      "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4627fe72571409.5bebed617acbb.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Spider man",
+      "img": "https://rukminim1.flixcart.com/image/400/400/poster/p/e/s/athah-pop-art-posterspiderman-poster-paper-print-rolled-original-imaefff6vmqwfv7f.jpeg?q=90",
+      "poster": "https://m.media-amazon.com/images/I/61XqUvAyE1L._AC_SY606_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Star Wars",
+      "img": "https://cdn.shopify.com/s/files/1/1057/4964/products/star-wars-vintage-movie-poster-original-british-quad-30x40-4427.jpg?v=1619211628",
+      "poster": "https://cdn.europosters.eu/image/1300/posters/star-wars-classic-i97850.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Matrix",
+      "img": "https://cdn3.movieweb.com/i/article/LKzo6TLGqZbOB9b6p3oWT2hJCFIvhN/1200:100/The-Matrix-4-Poster.jpg",
+      "poster": "https://assetscdn1.paytm.com/images/catalog/product/H/HO/HOMPOSTERSKART-POST9465414EBF875/1563081964413_0.jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 8,
+      "name": "DDLJ",
+      "img": "https://m.media-amazon.com/images/I/81RTfJFpnyL._SL1500_.jpg",
+      "poster": "https://bollywoodmovieposters.com/wp-content/uploads/dilwale-dulhania-le-jayenge-ddlj-poster1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mother India",
+      "img": "https://s01.sgp1.digitaloceanspaces.com/large/817262-42063-zegzhvilfj-1474615329.jpg",
+      "poster": "https://bollywoodmovieposters.com/wp-content/uploads/mother-india-poster-original-hand-painted-bollywood-mumbai.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Lagaan",
+      "img": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2012/07/Lagaan-Movie-Poster.jpg",
+      "poster": "https://images.desimartini.com/media/mobile/mobile_6368_lagaan_xlg.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sholay",
+      "img": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/uolidsayaznx8yrh_1611570241.jpeg",
+      "poster": "https://m.media-amazon.com/images/I/91dELR5Ju3L._AC_UL320_.jpg"
+    }
+  ]
+}
