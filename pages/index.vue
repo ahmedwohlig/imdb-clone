@@ -3,8 +3,14 @@
     <navigation-bar />
     <carousel />
     <v-container>
-      <v-row no-gutters>
-        <v-col v-for="movie in movieData.movies" :key="movie.id">
+      <v-row align="center" justify="center">
+        <v-col
+          v-for="movie in movieData.movies"
+          :key="movie.id"
+          cols="12"
+          sm="12"
+          lg="3"
+        >
           <movie-card
             :id="movie.id"
             :name="movie.name"

@@ -1,7 +1,11 @@
 <template>
   <div>
-    hello from {{ oid }}
-    <movie-card />
+    {{ searchMovie() }}
+    <movie-card
+      :name="movie.name"
+      :poster="movie.poster"
+      :rating="movie.rating"
+    />
   </div>
 </template>
 <script>
@@ -15,8 +19,17 @@ export default {
   data() {
     return {
       oid: this.$route.query.q,
-      movie: movieData.movies[this.oid],
+      movie: {},
     }
+  },
+  methods: {
+    searchMovie() {
+      for (const mov in movieData.movies) {
+        if (movieData.movies[mov].id === parseInt(this.oid)) {
+          this.movie = movieData.movies[mov]
+        }
+      }
+    },
   },
 }
 </script>

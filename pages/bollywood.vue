@@ -1,7 +1,15 @@
 <template>
-  <div>hello from bollywood</div>
+  <div>
+    im working but
+    <search-bar />
+  </div>
 </template>
 <script>
-export default {}
+import SearchBar from '~/components/searchBar.vue'
+export default {
+  components: {
+    SearchBar,
+  },
+}
 </script>
 <style></style>

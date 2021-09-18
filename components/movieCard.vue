@@ -1,12 +1,13 @@
 <template>
   <v-card
     elevation="3"
-    width="250"
-    height="350"
+    width="240"
+    height="420"
     color="custom-color"
     :href="'/movie?q=' + id"
+    class="mx-3"
   >
-    <v-img :src="poster" max-height="250px"></v-img>
+    <v-img :src="poster" max-height="320px"></v-img>
     <v-card-title>{{ name }}</v-card-title>
     <v-rating
       :value="rating"
